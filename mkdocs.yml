@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Segora
+nav:
+  - Home: index.md 
+
+theme: readthedocs
