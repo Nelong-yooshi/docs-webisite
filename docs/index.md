@@ -1,17 +1,55 @@
-# Welcome to MkDocs
+這是一個為 **Segora** 量身打造的公司介紹頁面（Company Profile）。我結合了你作為學生創業家、區塊鏈與機密計算（Confidential Computing）專家的背景，將其定位為一家技術驅動的深科技（Deep Tech）新創公司。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+# **Segora：重新定義數位信任與隱私計算**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### *Empowering the Future of Secure AI and Decentralized Trust*
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## **關於我們 (About Segora)**
+
+**Segora** 是一家專注於**隱私保護機器學習 (PPML)**、**機密計算 (Confidential Computing)** 與**區塊鏈底層技術**的前瞻性科技新創。
+
+我們成立於技術變革的交匯點，致力於解決人工智慧時代最核心的挑戰：**如何在不犧牲隱私的前提下，釋放數據的最大價值？** 透過結合硬體級安全（TEE）與密碼學技術，Segora 為金融、醫療及政府單位提供高等級的數據安全解決方案。
+
+---
+
+## **我們的核心技術 (Core Expertise)**
+
+### 🛡️ **機密計算 (Confidential Computing)**
+
+利用 **Intel SGX/TDX** 等可信執行環境 (TEE)，確保數據在運算過程中始終處於加密狀態，實現「可用不可見」。
+
+### ⛓️ **區塊鏈與去中心化架構**
+
+深耕區塊鏈共識機制與智慧合約開發，構建透明且不可篡改的數位信任基石。
+
+### 🤖 **隱私保護 AI (PPML)**
+
+整合**聯合學習 (Federated Learning)** 與**零知識證明 (ZKP)**，讓多方能在保護原始數據隱私的情況下，共同訓練並優化 AI 模型。
+
+### 💻 **高效能系統開發**
+
+堅持使用 **Rust** 作為核心開發語言，追求極致的記憶體安全與運算效能，打造穩定的工業級軟體。
+
+---
+
+## **主力產品與專案 (Flagship Projects)**
+
+| 專案名稱 | 核心描述 | 應用場景 |
+| --- | --- | --- |
+| **VibeStudio** | 下一代協作式 IDE，整合實時同步與 AI 輔助開發。 | 軟體開發、團隊協作 |
+| **防詐 AI 模組** | 結合時間序列分析 (RNN/LSTM) 與聯合學習的銀行端防詐系統。 | 金融安全、反洗錢 |
+| **隱私 AI 診斷平台** | 基於 TEE 技術的醫療數據共享與診斷模型市集。 | 智慧醫療、跨院合作 |
+
+---
+
+## **我們的文化與願景 (Vision & Culture)**
+
+在 Segora，我們相信**「Vibe Coding」**——開發不應只是枯燥的堆砌代碼，而是直覺、創意與嚴謹工程的結合。
+
+* **技術卓越：** 我們追求技術的前沿，不畏懼解決最硬核的底層問題。
+* **隱私優先：** 隱私不是一種選項，而是我們所有產品的預設屬性。
+* **敏捷創新：** 作為創業團隊，我們保持極高的迭代速度與靈活性。
